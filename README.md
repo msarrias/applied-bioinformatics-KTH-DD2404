@@ -1,5 +1,5 @@
-# Royal Institute of Technology - KTH
-## Applied Bioinformatics DD2404 HT18
+## Royal Institute of Technology - KTH
+# Applied Bioinformatics DD2404 HT18
 # Lab Assignments:
 ## LAB1: Basic Python
 * Random DNA sequences
