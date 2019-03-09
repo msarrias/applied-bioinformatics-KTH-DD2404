@@ -1,0 +1,17 @@
+>single_stop_codon
+TAA
+>stopcodons
+TAATAGTGATAATAGTGATAATAGTGATAATAGTGATAATAGTGATAATAGTGATAATAG
+TGATAATAGTGATAATAGTGA
+>ambiguities This is a comment, just here to remind you that Fasta sequences have description strings.
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+>proteinalphabet This silly DNA string should translate to 'ARNDCQEGHILKMFPSTWYV'
+GCTCGTAATGATTGTCAAGAAGGTCATATTTTAAAAATGTTTCCTTCTACTTGGTATGTT
+>proteinalphabet2
+GCTCGTAATGATTGTCAAGAAGGTCATATTTTAAAAATGTTTCCTTCTACTTGGTATGTT
+>proteinalphabet3
+gctcgtaatgattgtcaagaaggtcatattttaaaaatgtttccttctacttggtatgtt
+>tooshort No open reading frame here!
+A
+>short  The longest reading frame is two codons, "NS" or "TV"
+TAACAGTAG
