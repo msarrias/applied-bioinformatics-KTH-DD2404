@@ -34,17 +34,4 @@ if __name__ == '__main__':
                 print('>' + seq.id)
                 print(seq.seq)
 
-    # SeqIO.write(my_sequence_recorded_motif, f_out, 'fasta')
-    # print('     ')
-    # print('The total number of sequences in this file is:')
-    # print(len(my_sequence_recorded))
-    # print('The total number of sequences containing the motif is:')
-    # print(len(my_sequence_recorded_motif))
-    #
-    # muscle_result = subprocess.check_output([muscle_exe, "-in", in_file, "-out", out_file])
-    # cline = MuscleCommandline(muscle_exe, input=in_file, out=out_file)
-    #
-    # print('The multialignment file is now available in your directory.')
-
-
 
