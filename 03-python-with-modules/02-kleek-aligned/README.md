@@ -14,5 +14,6 @@ Explain the purpose of multialignments!
 
 http://assets.geneious.com/manual/8.0/GeneiousManualse38.html#GeneiousManualsu62.html
 
-There is a lot of variation between the sequences. The KLEEK motif it is indeed lined up in the multialingment.
+There is a lot of variation between the sequences. The KLEEK motif it is indeed lined up in the multialingment. But not in the first sequence, where is not align with the others, this could be due to the length and the program failed to align it with the rest, it could be fixed manually.
+
 ![align](out-mot-alignment.jpg)
