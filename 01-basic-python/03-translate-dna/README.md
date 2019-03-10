@@ -2,7 +2,7 @@
 ## Translate DNA
 
 ### Instructions:
-Write a program that finds the longest open reading frame (ORF) , although not necessarily with a start codon. I.e., you are to find the longest sequence of codons without a stop codon in each input DNA sequence. The output is the ORFs translated to proteins using the genetic code. The output should be formatted as in the previous assignment (Länkar till en externa sida.)Länkar till en externa sida.!
+Write a program that finds the longest open reading frame (ORF) , although not necessarily with a start codon. I.e., you are to find the longest sequence of codons without a stop codon in each input DNA sequence. The output is the ORFs translated to proteins using the genetic code. The output should be formatted as in the previous assignment.
 
 ### To present:
 What are the "stop codons" in the standard code? Why are we talking about a "standard code"? Looking for the longest ORF is a primitive way to find genes in prokaryotic genomes. Why does it not work for eukaryotes?
