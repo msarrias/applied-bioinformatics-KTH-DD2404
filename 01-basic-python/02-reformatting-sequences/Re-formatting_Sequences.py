@@ -97,17 +97,5 @@ if __name__ == '__main__':
     with open(fasta_filename, "w") as new_fasta_file:
         new_fasta_file.writelines(list_fasta_formatted_file)
 
-    # for filename in filenames:
-    #     files[filename] = reading_sequences(filename)
-    #     fasta[filename] = re_formatting(files[filename],filename)
-    #
-    #     filename_out = filename.split(".")[0]
-    #     fasta_filename = filename_out + '.fa'
-    #     with open(fasta_filename, "w") as new_fasta_file:
-    #         new_fasta_file.writelines(fasta[filename])
-
-    # choice = choice.split(".")[0]
-    # choice = choice + '.fa'
-
     with open (fasta_filename, 'r') as f:
         print (f.read())
